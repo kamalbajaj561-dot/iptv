@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" group-title="Iran",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir@SD" group-title="Iran",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" group-title="Iran",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD" group-title="Iran",Al Wilayah (720p)
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" group-title="Iran",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" group-title="Iran",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" group-title="Iran",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" group-title="Iran",Asil TV (576p)
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD" group-title="Iran",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" group-title="Iran",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" group-title="Iran",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" group-title="Iran",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" group-title="Iran",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DejTV.ir@HD" group-title="Iran",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FX1.ir@SD" group-title="Iran",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FX2.ir@SD" group-title="Iran",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" group-title="Iran",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" group-title="Iran",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" group-title="Iran",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" group-title="Iran",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" group-title="Iran",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD" group-title="Iran",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" group-title="Iran",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" group-title="Iran",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="SL1.ir@SD" group-title="Iran",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SL2.ir@SD" group-title="Iran",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="T2TV.ir@SD" group-title="Iran",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" group-title="Iran",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVITN.ir@SD" group-title="Iran",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" group-title="Iran",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD" group-title="Iran",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="Iran",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8

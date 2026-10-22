@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AltynAsyr.tm@SD" group-title="Turkmenistan",Altyn Asyr (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="ArkadagTV.tm@SD" group-title="Turkmenistan",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-id="Asgabat.tm@SD" group-title="Turkmenistan",Aşgabat (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="Miras.tm@SD" group-title="Turkmenistan",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm@SD" group-title="Turkmenistan",Türkmen Owazy (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm@SD" group-title="Turkmenistan",Türkmenistan (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD" group-title="Turkmenistan",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm@SD" group-title="Turkmenistan",Ýaşlyk (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch002.m3u8

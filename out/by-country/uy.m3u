@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalMas.uy@SD" group-title="Uruguay",Canal Mas (720p)
+https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="UCL.uy@SD" group-title="Uruguay",UCL (1080p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741

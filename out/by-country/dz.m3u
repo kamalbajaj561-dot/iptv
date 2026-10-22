@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AL24News.dz@SD" group-title="Algeria",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="AmouYazidTV.dz@SD" group-title="Algeria",Amou Yazid TV (576p)
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.dz@SD" group-title="Algeria",CNA (360p) [Not 24/7]
+https://live.creacast.com/cna/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" group-title="Algeria",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 tvg-id="TV2.dz@SD" group-title="Algeria",TV2 (1080p)
+http://185.9.2.18/chid_347/index.m3u8

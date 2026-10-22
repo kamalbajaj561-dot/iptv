@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TalTV.ne@SD" group-title="Niger",Tal TV (1080p)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" group-title="Niger",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

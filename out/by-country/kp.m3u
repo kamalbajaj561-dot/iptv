@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" group-title="North Korea",Korean Central Television (1080p) [Not 24/7]
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" group-title="North Korea",Korean Central Television (KCTV) (576p)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" group-title="North Korea",Ryongnamsan Television SD (720p) [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" group-title="North Korea",Sports Television (720p) [Not 24/7]
+https://live.koryocdn.org/sports/index.m3u8

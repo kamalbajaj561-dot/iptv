@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD" group-title="Albania",AlbKanale Music TV (1080p)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="CNA.al@SD" group-title="Albania",CNA (1080p)
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al@SD" group-title="Albania",News 24 (392p) [Not 24/7]
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al@SD" group-title="Albania",ntv (720p)
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al@SD" group-title="Albania",Ora News (720p)
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="Syri.al@SD" group-title="Albania",Syri (720p)
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al@SD" group-title="Albania",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJohaniter.al@SD" group-title="Albania",TV Johaniter (720p)
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al@SD" group-title="Albania",Vizion Plus (1080p)
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al@SD" group-title="Albania",Zjarr TV (360p)
+https://zjarr.future.al/hls/playlist.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNTV.mz@SD" group-title="Mozambique",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" group-title="Mozambique",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" group-title="Mozambique",TV Maná Moçambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM.mz@SD" group-title="Mozambique",TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8

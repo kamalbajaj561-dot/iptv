@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7Info.ci@SD" group-title="Ivory Coast",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci@SD" group-title="Ivory Coast",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" group-title="Ivory Coast",Benie TV (720p)
+https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ci@SD" group-title="Ivory Coast",Blacsktream tv (1080p) [Not 24/7]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.ci@SD" group-title="Ivory Coast",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" group-title="Ivory Coast",Miracle TV+ (720p)
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD" group-title="Ivory Coast",REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD" group-title="Ivory Coast",RTVC (720p)
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" group-title="Ivory Coast",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8

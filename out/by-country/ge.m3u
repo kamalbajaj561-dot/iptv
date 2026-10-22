@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1TV.ge@SD" group-title="Georgia",1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
+#EXTINF:-1 tvg-id="2TV.ge@SD" group-title="Georgia",2TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" group-title="Georgia",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" group-title="Georgia",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" group-title="Georgia",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" group-title="Georgia",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="Georgia",Formula (1080p)
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="Georgia",Imedi TV (1080p)
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" group-title="Georgia",Palitra News (480p) [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="Georgia",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" group-title="Georgia",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
